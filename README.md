@@ -29,6 +29,8 @@ Configure the following settings for your EC2 instance:
 # Step 3: Launch the Instance
 * Click on Launch after configuring your settings. The instance will take a few minutes to launch.
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/7f1a6489-b132-4da3-9ca7-78a4c232722d)
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/cc04ee8d-b678-4b64-b94f-b9a3e35b3b94)
+
 
 # Step 4: Connect to your Instance
 * Connect to your instance using SSH (Linux). Click on instance id to the right of screen click connect. Then click “ssh client”.
