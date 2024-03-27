@@ -7,3 +7,8 @@ A honeypot is a security mechanism used in cybersecurity to detect, deflect, or 
 * Basic understanding of the AWS console
 * Basic understanding of Github and git
 * Gitbash terminal.  [Here](https://gitforwindows.org/) 
+
+# Step 1: Create an instance; choose an Amazon Machine Image (AMI)
+* 1. Open the AWS Management Console and navigate to the EC2 service.
+* 2.Click on Launch Instance. Name it. I will call mine “honey_im_home”.
+* 3. Select an AMI from the list based on your requirements. For this guide, we'll use the Debian 11 AMI.
