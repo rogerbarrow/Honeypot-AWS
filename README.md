@@ -6,4 +6,4 @@ A honeypot is a security mechanism used in cybersecurity to detect, deflect, or 
 * An [AWS](https://aws.amazon.com/)  account
 * Basic understanding of the AWS console
 * Basic understanding of Github and git
-* Gitbash terminal. Here
+* Gitbash terminal.  [Here](https://gitforwindows.org/) 
