@@ -110,3 +110,14 @@ Once the installation is complete you will notice that you will be kicked off th
 # Step 14 Welcome to TPOT:
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/3e21c474-1598-43d7-843f-3345a70635bc)
 * You will see the homepage where you can select Attack Map and view which attacks are attacking your server and from which region the attack is coming from. This is a good way to create a “sitting duck” while you watch and study your attacker’s patterns in real-time.
+
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/40ba5188-82b5-4fd4-ad8d-498e33aba94f)
+
+# Step 15 Tear down:
+When done, terminate the instance to avoid charges.
+
+* Open the AWS Management Console and navigate to the EC2 service.
+* Select the instance, click on Actions > Terminate.
+* Note: You'll be charged for the running time, even if not actively using the instance.
+
+# This concludes this project. Well done! 👏
