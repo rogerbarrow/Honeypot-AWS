@@ -37,5 +37,7 @@ Configure the following settings for your EC2 instance:
 * Open Gitbash terminal, right click and run as administrator. Navigate to your path where your key pair is i.e. “cd Downloads”.
 * Head back to the AWS console and copy the code from line 3, paste that into the terminal, enter that and then do the same thing for line 5.
 * You will be asked to continue. Enter “yes”
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/502fa5c3-d8e6-4697-9970-b650a7bf52cc)
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/c350e8d3-365e-4dd1-b416-da9f488fd984)
 
 
