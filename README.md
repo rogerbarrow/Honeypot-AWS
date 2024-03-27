@@ -83,9 +83,14 @@ Once the installation is complete you will notice that you will be kicked off th
 * Change ssh to custom TCP port range for port 64297, for source choose my ip and for description label it whatever you like, I named mine “This is for web portal”. Note that in the following image my port is different, however I’ve found that the above configuration works best.
 * Now click, add rule choose custom TCP port range for port 64295, for source choose my ip and for description I labelled it “This is to SSH in”
 * Lastly, add another rule. This is also custom TCP, for the port range 1-64000, for source choose anywhere ipv4 and for description I put “For the bad guys”.
+* 
 * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/b5436f85-9162-4c4f-814f-899e87eab475)
 
+# Step 11 SSH with new port:
+* Now we initially used the code in line 5 of the ssh client from AWS console to ssh into the instance, however since our configuration we must enter in through our new port. Therefore, we will need to make a modification to that code.
 
+* Go to your terminal and press the up arrow the last code that you entered into it (which should be line 5 should populate. On the end of it type -p 64295 (this is our ssh) like so:
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/beaf916e-99d1-4efd-8d36-cd34454d23b8)
 
 
 
