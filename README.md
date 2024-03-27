@@ -122,4 +122,6 @@ When done, terminate the instance to avoid charges.
 * Select the instance, click on Actions > Terminate.
 * Note: You'll be charged for the running time, even if not actively using the instance.
 
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/bf50e8a6-2323-47ed-b05c-78829ec91785)
+
 # This concludes this project. Well done! 👏
