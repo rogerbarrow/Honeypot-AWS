@@ -83,6 +83,8 @@ Once the installation is complete you will notice that you will be kicked off th
 * Change ssh to custom TCP port range for port 64297, for source choose my ip and for description label it whatever you like, I named mine “This is for web portal”. Note that in the following image my port is different, however I’ve found that the above configuration works best.
 * Now click, add rule choose custom TCP port range for port 64295, for source choose my ip and for description I labelled it “This is to SSH in”
 * Lastly, add another rule. This is also custom TCP, for the port range 1-64000, for source choose anywhere ipv4 and for description I put “For the bad guys”.
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/b5436f85-9162-4c4f-814f-899e87eab475)
+
 
 
 
