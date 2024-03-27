@@ -48,7 +48,7 @@ We want to ensure that the proper patches are up to date on this instance, so we
 
   # Step 6: Install Git
   We will need git to pull files from github so let’s run this command.
-  ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/9f807dc7-9ae2-4b2c-98c3-d741668af187)
+ * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/9f807dc7-9ae2-4b2c-98c3-d741668af187)
 
  * Now we need to download the software for TPOT. To do this we will navigate to github to get the link for the honeypot. Once you get there click the green button labeled “Code” and copy the .git link. Repo is here repository.
 
