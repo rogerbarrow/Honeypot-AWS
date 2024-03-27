@@ -112,6 +112,8 @@ Once the installation is complete you will notice that you will be kicked off th
 * You will see the homepage where you can select Attack Map and view which attacks are attacking your server and from which region the attack is coming from. This is a good way to create a “sitting duck” while you watch and study your attacker’s patterns in real-time.
 
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/40ba5188-82b5-4fd4-ad8d-498e33aba94f)
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/bc7f9984-757b-4453-bd73-7e8210a9f132)
+
 
 # Step 15 Tear down:
 When done, terminate the instance to avoid charges.
