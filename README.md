@@ -31,9 +31,9 @@ Configure the following settings for your EC2 instance:
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/7f1a6489-b132-4da3-9ca7-78a4c232722d)
 
 # Step 4: Connect to your Instance
-*Connect to your instance using SSH (Linux). Click on instance id to the right of screen click connect. Then click “ssh client”.
-*Open Gitbash terminal, right click and run as administrator. Navigate to your path where your key pair is i.e. “cd Downloads”.
-*Head back to the AWS console and copy the code from line 3, paste that into the terminal, enter that and then do the same thing for line 5.
-*You will be asked to continue. Enter “yes”
+* Connect to your instance using SSH (Linux). Click on instance id to the right of screen click connect. Then click “ssh client”.
+* Open Gitbash terminal, right click and run as administrator. Navigate to your path where your key pair is i.e. “cd Downloads”.
+* Head back to the AWS console and copy the code from line 3, paste that into the terminal, enter that and then do the same thing for line 5.
+* You will be asked to continue. Enter “yes”
 
 
