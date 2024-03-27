@@ -92,5 +92,20 @@ Once the installation is complete you will notice that you will be kicked off th
 * Go to your terminal and press the up arrow the last code that you entered into it (which should be line 5 should populate. On the end of it type -p 64295 (this is our ssh) like so:
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/beaf916e-99d1-4efd-8d36-cd34454d23b8)
 
+# Step 12 Enter path:
+
+
+* Let’s again, ensure that we can access our “tpotce” folder
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/e83557b4-23e7-48d0-9fd1-daf674675808)
+
+# Step 13 Enter web portal:
+* Go back to the console, click instance id and copy your public IPv4 address
+* Open a new window and in the browser enter: https:// then paste your address behind it.
+* Then behind your address type “:” and then the port number you configured for the web portal in your security group. Which is 64297 and press enter.
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/2237eb3f-1b03-4213-8bae-68d142b5f091)
+
+* You will see a warning message. Click advanced and proceed. After that you will be prompted to enter the username and password that you created.
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/6469a343-5ed2-4bb1-8a2f-fe791b3d83f4)
+
 
 
