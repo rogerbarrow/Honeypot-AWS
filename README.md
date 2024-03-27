@@ -23,5 +23,7 @@ Configure the following settings for your EC2 instance:
 * Configure Storage: Specify 128gb gp2. This is the requirement for the TPOT, the storage is needed for log collection. Your screen should look like this:
 * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/00ec51b3-f178-44ee-a926-8185c9699337)
 * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/b6ef4bd6-6a23-4c98-af45-b49d0843a073)
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/157c3062-e932-4195-a969-23a63e9cf972)
+
 
 
