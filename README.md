@@ -39,5 +39,6 @@ Configure the following settings for your EC2 instance:
 * You will be asked to continue. Enter “yes”
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/502fa5c3-d8e6-4697-9970-b650a7bf52cc)
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/c350e8d3-365e-4dd1-b416-da9f488fd984)
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/6547939b-6e30-43a0-85c7-5252bbd64e5d)
 
 
