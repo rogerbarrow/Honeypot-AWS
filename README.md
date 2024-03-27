@@ -41,4 +41,9 @@ Configure the following settings for your EC2 instance:
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/c350e8d3-365e-4dd1-b416-da9f488fd984)
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/6547939b-6e30-43a0-85c7-5252bbd64e5d)
 
+# Step 5: Update and upgrade OS
+We want to ensure that the proper patches are up to date on this instance, so we will run this command in the terminal first.
+* sudo apt update && sudo apt upgrade
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/98c3d0a5-d3fb-47f8-ac7b-c973850aa138)
+
 
