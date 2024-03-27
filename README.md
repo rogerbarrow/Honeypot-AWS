@@ -19,5 +19,9 @@ Configure the following settings for your EC2 instance:
 
 * Instance Type: Determine the CPU, memory, and storage resources for your workload. Choose t2.xlarge
 * Network Settings: Specify the subnet and security group for your instance. Leave this as default.
-* Key Pair: Create or use an existing key pair for SSH authentication. I will call my key “mypot”. This key when created will be downloaded to you downloads folder.
+* Key Pair: Create or use an existing key pair for SSH authentication. I will call my key “honeypot”. This key when created will be downloaded to you downloads folder.
 * Configure Storage: Specify 128gb gp2. This is the requirement for the TPOT, the storage is needed for log collection. Your screen should look like this:
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/00ec51b3-f178-44ee-a926-8185c9699337)
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/b6ef4bd6-6a23-4c98-af45-b49d0843a073)
+
+
