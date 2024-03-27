@@ -54,6 +54,10 @@ We want to ensure that the proper patches are up to date on this instance, so we
  * This link will be used alongside the “git clone” command in our terminal like so:
 ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/f9375fcb-71de-4396-9f96-f6d0f528a1da)
 
+# Step 7 Navigate to folder:
+Once the repo has been successfully cloned, in the terminal enter “ls” to view the folder “tpotce” and “cd” into it and “ls” again like so:
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/02a1c01a-c226-47f5-b85c-5f1785e3c56c)
+
 
 
 
