@@ -61,7 +61,12 @@ Once the repo has been successfully cloned, in the terminal enter “ls” to vi
 # Step 8 Install bash script:
 * We need to run the bash script “install.sh” to do so run this command:
   
-*![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/93063c98-dc58-4c29-a218-7dc550a7f9a9)
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/93063c98-dc58-4c29-a218-7dc550a7f9a9)
+* You will eventually see this screen enter “y”
+
+* # Step 9 Choose TPOT Edition:
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/7f127d1d-4ebc-4224-b835-14fb5a225a82)
+
 
 
 
