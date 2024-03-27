@@ -66,8 +66,12 @@ Once the repo has been successfully cloned, in the terminal enter “ls” to vi
 
 * # Step 9 Choose TPOT Edition:
 * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/7f127d1d-4ebc-4224-b835-14fb5a225a82)
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/efa04882-04fc-445b-b790-8cfbfe5882ab)
+
 * You will be taken to a dialog box to choose your edition.
 *  Choose standard and press enter.
+*  ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/e5219107-1ba4-475d-ac34-248161f2ade1)
+
 You then will create a username and password.
 After this installation will continue.
 
