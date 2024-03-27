@@ -52,6 +52,8 @@ We want to ensure that the proper patches are up to date on this instance, so we
 
  * Now we need to download the software for TPOT. To do this we will navigate to github to get the link for the honeypot. Once you get there click the green button labeled “Code” and copy the .git link. Repo is here [repository](https://github.com/telekom-security/tpotce/) .
  * This link will be used alongside the “git clone” command in our terminal like so:
+![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/f9375fcb-71de-4396-9f96-f6d0f528a1da)
+
 
 
 
