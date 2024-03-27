@@ -60,6 +60,7 @@ Once the repo has been successfully cloned, in the terminal enter “ls” to vi
 
 # Step 8 Install bash script:
 * We need to run the bash script “install.sh” to do so run this command:
+  
 *![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/93063c98-dc58-4c29-a218-7dc550a7f9a9)
 
 
