@@ -74,6 +74,15 @@ Once the repo has been successfully cloned, in the terminal enter “ls” to vi
 
 You then will create a username and password.
 After this installation will continue.
+# Step 10 Reconfigure Security Group:
+Once the installation is complete you will notice that you will be kicked off the server. This is a good thing as TPOT has made some new configuration to your security group and now for security purposes you are no longer allowed to connect to the server via ssh port 22. So, here’s how we fix this:
+* Go back to the AWS console. Go EC2>click Your instance id>security
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/1af28988-aafa-415a-a494-4954843d2422)
+* Click on your security group and then edit inbound rules.
+* ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/c060afd3-4aa4-4d16-9053-7eec98fad8b1)
+* Change ssh to custom TCP port range for port 64297, for source choose my ip and for description label it whatever you like, I named mine “This is for web portal”. Note that in the following image my port is different, however I’ve found that the above configuration works best.
+* Now click, add rule choose custom TCP port range for port 64295, for source choose my ip and for description I labelled it “This is to SSH in”
+* Lastly, add another rule. This is also custom TCP, for the port range 1-64000, for source choose anywhere ipv4 and for description I put “For the bad guys”.
 
 
 
