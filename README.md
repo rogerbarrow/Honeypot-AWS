@@ -58,6 +58,9 @@ We want to ensure that the proper patches are up to date on this instance, so we
 Once the repo has been successfully cloned, in the terminal enter “ls” to view the folder “tpotce” and “cd” into it and “ls” again like so:
 * ![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/02a1c01a-c226-47f5-b85c-5f1785e3c56c)
 
+# Step 8 Install bash script:
+* We need to run the bash script “install.sh” to do so run this command:
+*![image](https://github.com/rogerbarrow/Honeypot-AWS/assets/46138186/93063c98-dc58-4c29-a218-7dc550a7f9a9)
 
 
 
